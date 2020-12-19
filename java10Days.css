@@ -1,0 +1,58 @@
+@import url('https://fonts.googleapis.com/css2?family=Work+Sans:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap');
+
+@import url('https://fonts.googleapis.com/css2?family=Oswald:wght@200;300;400;500;600;700&display=swap');
+
+@import url('https://fonts.googleapis.com/css2?family=Secular+One&display=swap');
+
+@import url('https://fonts.googleapis.com/css2?family=Langar&display=swap'); /*font-family: 'Langar', cursive;*/
+
+*{margin: 0; padding: 0;}
+
+body {
+    font-family: 'Work Sans', sans-serif;
+    font-size: 15px;
+    margin: 7px 4px 0px 8px;
+}
+h1 {
+    color: #0c2e3e;
+    font-family: 'Langar', cursive;
+}
+h3 {
+    margin: 8px 0px 8px 0px;
+    color: #0c2e3e;
+    font-family: 'Langar', cursive;
+}
+li {
+    margin: 5px 0px 5px 0px;
+    font-weight: 500;
+    font-family: 'Langar', cursive;
+    font-size: 13px;
+    color: #1a4a61;
+}
+button {
+    background: #346d88;
+    color: white;
+    padding: 4px;
+    border: transparent;
+    border-radius: 3px;
+    font-size: 11px;
+    margin-left: 5px;
+}
+input#ourField {
+    padding: 5px;
+    border: #241e773b;
+    background: #fefffe;
+    border-radius: 2px;
+    margin-top: 10px;
+}
+.container {
+    width: 220px;
+    margin: auto;
+    height: 250px;
+    padding: 17px 30px 1px 53px;
+    box-shadow: 0px 16px 11px -12px;
+    background: url(Images/13839222.jpg);
+    background-size: 100% 110%;
+    background-repeat: no-repeat;
+    border-radius: 7px 7px 0 0;
+}
